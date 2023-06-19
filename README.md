@@ -3,8 +3,5 @@
  <!-- For Image -->
 
 <p align="center">
-  <img src="https://github.com/sabrinaMKE201073/test-html-coding/assets/95947484/15c1a94a-4273-4895-949c-e423e291b08a">
+  <img src="https://github.com/sabrinaMKE201073/test-html-coding/assets/95947484/51537946-0866-47b4-a775-85abec2102c4">
 </p>
-
-
-
